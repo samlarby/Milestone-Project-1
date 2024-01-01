@@ -1,39 +1,21 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# The Function Gym
 
-Welcome,
+The purpose of this project is to provide information to people who are thinking of joining The Function Gym. This site is aimed at people who want to join a gym which has focus on fun and community but also working hard as well. It will provide information on different membership types and prices. 
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+/* insert website images here*/
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+## Features
 
-## Codeanywhere Reminders
+  * __Navigation Bar__
+    * The navigation bar includes the company title which will link to the home page if clicked on. It will also include a home link, memberships link, gallery link, and a contact link.
+    * The navigation bar will be present at the top of the page on all 4 different pages. 
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+* __Hero Image__
+    * The hero image will be visible on the home page, it is there to make the page visibly appealing and inticing.
+    * Over the hero image will be the gyms moto and also a sign up link which will take customers to the membership page. 
 
-`python3 -m http.server`
+* __Testimonials__
+    * The testimonial section isfor current customer reviews explaining why they enjoy The Function Gym. To show the success and enjoyment current members have. 
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+* __Footer__
+    * This will include a link to the contact form, and also links to all of The Function Gyms social media.  
