@@ -30,3 +30,31 @@ The purpose of this project is to provide information to people who are thinking
     * This will provide a form for people to fill in if they have any further questions they would like to ask. 
 
 
+## UX 
+
+### Site Goals
+
+### Design Choices
+
+### User Stories
+
+### Wireframes
+
+## Testing
+
+### Validator Testing
+
+### Unfixed bugs
+
+## Deployment 
+
+## Credits
+
+### Content
+
+### Media
+
+
+
+
+
