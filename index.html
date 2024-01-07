@@ -3,42 +3,36 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
-      crossorigin="anonymous"
-    />
-    <link href="Assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
     <title>The Function Gym</title>
   </head>
   <body>
     <header>
-        <div class="row">
-            <div class="col-4 main-title">
-                <h1>The Function Gym</h1>
-            </div>
-            <div class="col-8">    
-                <ul class="nav justify-content-end">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Memberships</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Gallery</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#" >Contact</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
+        <a href="#">
+            <h1 id="logo">The Function Gym</h1>
+        </a>
+        <nav>
+            <ul class="navbar">
+                <li class="nav-link"><a href="#">Home</a></li>
+                <li class="nav-link"><a href="#">Memberships</a></li>
+                <li class="nav-link"><a href="#">Gallery</a></li>
+                <li class="nav-link"><a href="#">Contact us</a></li>
+            </ul>
+        </nav>
     </header>
     <section class="hero">
-        <img src="Assets/images/hero-image.jpg" class="img-fluid" alt="An image of a man lifting weights">
+        <div id="hero-image-container">
+            <img id="hero-image" src="assets/images/hero-image.jpg" alt="Man lifting weights">
+            <div id="image-text">
+                <h2></h2>
+                <h3></h3>
+            </div>
+        </div>
+       
 
     </section>
+    <footer>
+
+    </footer>
   </body>
 </html>
