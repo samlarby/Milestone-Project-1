@@ -173,6 +173,8 @@ header {
     letter-spacing: 2px;
 }
 
+/* ------------------------ gallery */
+
 #gallery {
     clear: both;
     column-count: 4;
@@ -209,7 +211,7 @@ header {
 }
 
 .contact-form h2 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;'Montserrat', sans-serif;
     font-weight: 200; 
 }
 
@@ -234,4 +236,82 @@ header {
     color: antiquewhite;
     border: solid 1px antiquewhite;
     border-radius: 10px 10px 10px 10px;
+}
+
+.form-item textarea {
+    width: 100%;
+    height: 100px; 
+}
+
+/* ------------------------ about */
+
+#about {
+    width: 100%;
+    height: 620px; 
+
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#about h2 {
+    font-weight: 300;
+    letter-spacing: 1px; 
+}
+
+#about hr {
+    width: 5%; 
+    background-color: antiquewhite;
+}
+
+#about-us {
+    width: 80%;
+    height: 50%; 
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200; 
+}
+
+#schedule-container {
+    width: 100%;
+    height: 50%; 
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+}
+
+#schedule {
+    display: flex;
+    flex-direction: row; 
+
+    justify-content: space-around;
+    text-align: center;
+
+    width: 100%;
+    height: 100%; 
+}
+
+.schedule-item {
+    width: 10%; 
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+@media screen and (max-width: 943px) {
+    .navbar {
+        display: none;
+
+    }
 }

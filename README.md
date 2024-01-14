@@ -50,6 +50,14 @@ The purpose of this project is to provide information to people who are thinking
 
 ## Credits
 
+/*<a href="https://www.freepik.com/free-photo/group-young-people-training-gym-indoors-maintaining-sportive-lifestyle_26207714.htm#query=gym%20class&position=1&from_view=keyword&track=ais&uuid=e5ce70fc-3fbe-4e89-b074-15b2120e87d7#position=1&query=gym%20class">Image by master1305</a> on Freepik
+
+Image by <a href="https://www.freepik.com/free-photo/full-shot-people-training-together_27645160.htm#query=gym%20class&position=6&from_view=keyword&track=ais&uuid=e5ce70fc-3fbe-4e89-b074-15b2120e87d7">Freepik</a>
+
+Image by <a href="https://www.freepik.com/free-photo/young-women-taking-part-spinning-class_23987892.htm#query=gym%20class&position=26&from_view=keyword&track=ais&uuid=e5ce70fc-3fbe-4e89-b074-15b2120e87d7">Freepik</a>
+
+<a href="https://www.vecteezy.com/free-photos">Free Stock photos by Vecteezy</a>
+
 ### Content
 
 ### Media
