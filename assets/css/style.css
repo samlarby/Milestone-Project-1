@@ -53,6 +53,11 @@ header {
 
 /* -------------------- hero-image */
 
+#hero-image-container {
+    height: 700px;
+    margin-bottom: 40px;
+}
+
 #hero-image {
 
     background-image: url("/assets/images/hero-image.jpg");
@@ -100,6 +105,9 @@ header {
 #reviews {
     width: 100%;
     height: 200px;
+
+    display: flex;
+    flex-direction: row;
 }
 
 #reviews div {
@@ -108,7 +116,6 @@ header {
     padding: 10px 10px 10px 10px;
     margin-left: 90px;
     text-align: center;
-    float: left;
     font-family: 'Montserrat', sans-serif;
     font-weight: 100;
     letter-spacing: 2px;
@@ -311,7 +318,9 @@ header {
 
 @media screen and (max-width: 943px) {
     .navbar {
-        display: none;
-
-    }
-}
+            clear: left;
+            float: left;
+            margin-left: 30px;
+            margin-bottom: 20px;
+            line-height: 25px;
+        }
