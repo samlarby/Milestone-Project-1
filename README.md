@@ -58,6 +58,13 @@ Image by <a href="https://www.freepik.com/free-photo/young-women-taking-part-spi
 
 <a href="https://www.vecteezy.com/free-photos">Free Stock photos by Vecteezy</a>
 
+<a href="https://www.freepik.com/free-photo/group-young-people-training-gym-indoors-maintaining-sportive-lifestyle_26207708.htm#query=gym%20class&position=31&from_view=keyword&track=ais&uuid=e5ce70fc-3fbe-4e89-b074-15b2120e87d7">Image by master1305</a> on Freepik
+
+Image by <a href="https://www.freepik.com/free-photo/woman-helping-men-gym-front-view_32504940.htm#page=2&query=gym%20class&position=30&from_view=keyword&track=ais&uuid=e5ce70fc-3fbe-4e89-b074-15b2120e87d7">Freepik</a>
+
+
+<a href="https://www.freepik.com/free-photo/crossfit-group-gym_2757062.htm#page=2&query=gym%20class&position=16&from_view=keyword&track=ais&uuid=e5ce70fc-3fbe-4e89-b074-15b2120e87d7">Image by rawpixel.com</a> on Freepik
+
 ### Content
 
 ### Media
