@@ -432,12 +432,6 @@ header {
             font-weight: 200;
             text-align: center;
         }
-
-        #footer-container {
-            position: absolute;
-            bottom: 0;
-        }
-
 }
 
 
