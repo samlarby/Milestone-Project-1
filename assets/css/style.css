@@ -313,7 +313,7 @@ header {
 }
 
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 768px) {
         .navbar {
             position: relative;
             display: inline-block;
@@ -436,7 +436,7 @@ header {
 
 
 
-@med screen and (min-width: 769px and max-width: 992px) {
+@media screen and (max-width: 992px) {
 
         #hero-text {
             left: 25%;
@@ -468,5 +468,57 @@ header {
         #reviews p {
             align-items: flex-start;
         }
+
+        #about {
+            width: 80%; 
+            min-height: 87vh;
+            padding-left: 10%;
+            padding-right: 10%;
+        }
+
+        #membership {
+            height: 87vh;
+        }
+
+        .membership-container {
+            width: 99%;
+            height: 43vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            margin: 10px 10px 20px 10px;
+            align-items: center;
+        }
+
+        .membership-item {
+            width: 80%;
+            height: 300px;
+            justify-content: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding-right: 25px;
+            padding-left: 25px;
+            border: solid 1px antiquewhite;
+            border-radius: 15px;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 200;
+            margin-bottom: 20px;
+        }
+                
+        #gallery {
+            column-count: 3;
+        }
+
+        .contact-form-container {
+            height: 85vh; 
+        }
+}
+
+@media screen and (max-width: 1200px) {
+
     
+
+
+
 }
