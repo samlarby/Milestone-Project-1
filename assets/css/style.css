@@ -1,7 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500&display=swap");
 
 
-html, body {
+html,
+body {
     background-color: black;
     color: antiquewhite;
     min-height: 100%;
@@ -58,41 +59,43 @@ header a {
     display: none;
 }
 
-.dropdown-btn {
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
     background-color: black;
     color: antiquewhite;
-    border: solid 1px antiquewhite;
-    border-radius: 10px;
-    font-family: 'Montserrat', sans-serif;
     width: 20%;
-        
-}
+    text-align: center;
+    font-size: 150%;
+    z-index: 1;
+    }
+
 
 .dropdown-content {
     display: none;
     position: absolute;
     width: 100%;
     overflow: auto;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-    margin-top: 20px;
+    margin-top: 30px;
+    z-index: 2; 
+    border-radius: 15px; 
+    background-color: antiquewhite;
+    color: black;
 }
 
-.dropdown:hover .dropdown-content {
+#nav-toggle:checked~.dropdown-content {
     display: block;
 }
 
 .dropdown-content a {
     display: block;
-    color: antiquewhite;
     padding: 5px;
     text-decoration: none;
     text-align: center;
-    margin-top: 10px;
-}
-
-.dropdown-content a:hover {
-    color: rgb(188, 20, 53);
-    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300; 
 }
 
 /* -------------------- hero-image */
@@ -240,7 +243,7 @@ header a {
 /* ------------------------ contact */
 
 .contact-form-container {
-    height: 620px; 
+    height: 620px;
     width: 100%;
 
     display: flex;
@@ -251,18 +254,18 @@ header a {
 }
 
 .contact-form {
-    display: flex; 
+    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 
-    font-family:'Montserrat', sans-serif;
-    font-weight: 200; 
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
 }
 
 .contact-form h2 {
     font-family: 'Montserrat', sans-serif;
-    font-weight: 200; 
+    font-weight: 200;
 }
 
 .form-item {
@@ -274,11 +277,12 @@ header a {
 
 }
 
-.form-item input, textarea {
+.form-item input,
+textarea {
     color: antiquewhite;
-    background-color: black; 
+    background-color: black;
     border: solid 1px antiquewhite;
-    border-radius: 10px 10px 10px 10px; 
+    border-radius: 10px 10px 10px 10px;
 }
 
 #submit-button {
@@ -290,16 +294,16 @@ header a {
 
 .form-item textarea {
     width: 200px;
-    height: 100px; 
+    height: 100px;
 }
 
 /* ------------------------ about */
 
 #about {
     width: 100%;
-    height: 620px; 
+    height: 620px;
 
-    display: flex; 
+    display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -308,17 +312,17 @@ header a {
 
 #about h2 {
     font-weight: 300;
-    letter-spacing: 1px; 
+    letter-spacing: 1px;
 }
 
 #about hr {
-    width: 5%; 
+    width: 5%;
     background-color: antiquewhite;
 }
 
 #about-us {
     width: 80%;
-    height: 50%; 
+    height: 50%;
 
     display: flex;
     flex-direction: column;
@@ -326,12 +330,12 @@ header a {
     text-align: center;
 
     font-family: 'Montserrat', sans-serif;
-    font-weight: 200; 
+    font-weight: 200;
 }
 
 #schedule-container {
     width: 100%;
-    height: 50%; 
+    height: 50%;
 
     display: flex;
     flex-direction: column;
@@ -344,17 +348,17 @@ header a {
 
 #schedule {
     display: flex;
-    flex-direction: row; 
+    flex-direction: row;
 
     justify-content: space-around;
     text-align: center;
 
     width: 100%;
-    height: 100%; 
+    height: 100%;
 }
 
 .schedule-item {
-    width: 10%; 
+    width: 10%;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -379,81 +383,99 @@ header a {
 
 @media screen and (max-width: 992px) {
 
-        #hero-text {
-            left: 25%;
-            right: 25%;
-        }
+    header {
+        flex-direction: column;
+        justify-content: center;
+    }
     
+    .navbar {
+        text-align: center;
+        padding-left: 0;
+    }
     
-        #reviews {
-            height: 660px;
-            display: flex;
-            flex-direction: column;
-            margin-bottom: 20px;
-            width: 75%;
-            margin-left: 10%;
-    
-        }
-    
-        #reviews div {
-    
-            height: 200px;
-            width: 100%;
-            display: flex;
-            flex-direction: column;
-            margin-bottom: 20px;
-            margin-left: 8px;
-            overflow: hidden;
-        }
-    
-        #reviews p {
-            align-items: flex-start;
-        }
+    #logo {
+        text-align: center;
+        letter-spacing: 3px;
+        float: none;
+        margin-bottom: 5px;
+    }
 
-        #about {
-            width: 80%; 
-            min-height: 87vh;
-            padding-left: 10%;
-            padding-right: 10%;
-        }
+    
+    #hero-text {
+        left: 25%;
+        right: 25%;
+    }
 
-        #membership {
-            height: 87vh;
-        }
 
-        .membership-container {
-            width: 99%;
-            height: 43vh;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-around;
-            margin: 10px 10px 20px 10px;
-            align-items: center;
-        }
+    #reviews {
+        height: 660px;
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 20px;
+        width: 75%;
+        margin-left: 10%;
 
-        .membership-item {
-            width: 80%;
-            height: 300px;
-            justify-content: center;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            padding-right: 25px;
-            padding-left: 25px;
-            border: solid 1px antiquewhite;
-            border-radius: 15px;
-            font-family: 'Montserrat', sans-serif;
-            font-weight: 200;
-            margin-bottom: 20px;
-        }
-                
-        #gallery {
-            column-count: 3;
-        }
+    }
 
-        .contact-form-container {
-            height: 85vh; 
-        }
+    #reviews div {
+
+        height: 200px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 20px;
+        margin-left: 8px;
+        overflow: hidden;
+    }
+
+    #reviews p {
+        align-items: flex-start;
+    }
+
+    #about {
+        width: 80%;
+        min-height: 87vh;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    #membership {
+        height: 87vh;
+    }
+
+    .membership-container {
+        width: 99%;
+        height: 43vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        margin: 10px 10px 20px 10px;
+        align-items: center;
+    }
+
+    .membership-item {
+        width: 80%;
+        height: 300px;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-right: 25px;
+        padding-left: 25px;
+        border: solid 1px antiquewhite;
+        border-radius: 15px;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 200;
+        margin-bottom: 20px;
+    }
+
+    #gallery {
+        column-count: 2;
+    }
+
+    .contact-form-container {
+        height: 85vh;
+    }
 }
 
 
@@ -471,21 +493,23 @@ header a {
     .navbar {
         display: none;
     }
-    
+
     header {
         display: block;
     }
 
     #logo {
-        text-align: center; 
+        text-align: center;
         letter-spacing: 3px;
-        float: unset; 
+        float: none;
+        margin-bottom: 5px;
     }
 
     .dropdown {
         display: flex;
         justify-content: center;
     }
+
 
     #hero-text {
         left: 25%;
@@ -542,8 +566,8 @@ header a {
         align-items: center;
     }
 
-    #gallery {
-        column-count: 2;
+    #membership {
+        height: 1200px; 
     }
 
     .membership-container {
