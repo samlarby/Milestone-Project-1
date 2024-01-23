@@ -194,7 +194,8 @@ header a {
 /* ------------------------ memberships */
 
 #membership {
-    height: 84vh;
+    height: 82vh;
+    padding-bottom: 20px; 
 }
 
 .membership-container {
