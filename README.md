@@ -15,7 +15,7 @@ The purpose of this project is to provide information to people who are thinking
     * Over the hero image will be the gyms moto and also a sign up link which will take customers to the membership page. 
 
 * __Testimonials__
-    * The testimonial section isfor current customer reviews explaining why they enjoy The Function Gym. To show the success and enjoyment current members have. 
+    * The testimonial section is for current customer reviews explaining why they enjoy The Function Gym. To show the success and enjoyment current members have. 
 
 * __Footer__
     * This will include a link to the contact form, and also links to all of The Function Gyms social media.  
@@ -30,15 +30,27 @@ The purpose of this project is to provide information to people who are thinking
     * This will provide a form for people to fill in if they have any further questions they would like to ask. 
 
 
-## UX 
+## User Experience (UX) 
+### First time visitors
+* The aim for a first time visitor is to find information about the gym.
+* Also to find reviews of the organisation.
+* Finally to find pictures of people in the gym, to see if they are enjoying the experience
 
-### Site Goals
+### Returning visitors
+* A returning customer will find more information on schedules and also membership options
+* Be able to find ways of contacting the company for any questions I may have, and contact about joining
+* Also find links to social media
 
 ### Design Choices
-
-### User Stories
+* Colour scheme
+    * The main two colours used are black and antiquewhite
+* Typography
+    * The font-family used for this website is Montserrat and sans-serif was set as the fall back font. Montserrat was used as it has a clean and stylish look.
+* Imagery
+    * The background image was used to add a proffessional look to the website. All images in the gallery were used to show a happy and hard working environment. 
 
 ### Wireframes
+* All wireframes were created using Balsamiq wireframes, all designs for desktop, tablet and mobile are linked here
 
 ## Testing
 
