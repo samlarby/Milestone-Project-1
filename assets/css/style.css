@@ -368,8 +368,11 @@ textarea {
 }
 
 .schedule-item {
-    width: 10%;
     font-family: 'Montserrat', sans-serif;
+}
+
+.schedule-item ul {
+    list-style: square;
 }
 
 
