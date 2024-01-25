@@ -62,7 +62,7 @@ The purpose of this project is to provide information to people who are thinking
     * about.html returned no errors
     * memberships.html returned no errors
     * gallery.html warned that the section lacked a header
-    * contact.html returned no errors
+    * contact.html returned no errors.
 
 ### Unfixed bugs
 
