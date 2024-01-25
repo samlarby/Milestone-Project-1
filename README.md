@@ -67,7 +67,14 @@ The purpose of this project is to provide information to people who are thinking
 ### Unfixed bugs
 
 ## Deployment 
-
+* This site was deployed to github pages here are the steps:
+    * In Github find the repository.
+    * Then go to the repository settings tab.
+    * In the code and automation section on the sidebar scroll down to pages.
+    * in the pages section under the source select deploy from branch.
+    * Then use the branch dropdown menu to select main instead of none.
+    * Then select root in the dropdown tab next to main.
+    * Once completed press save. 
 ## Credits
 
 /*<a href="https://www.freepik.com/free-photo/group-young-people-training-gym-indoors-maintaining-sportive-lifestyle_26207714.htm#query=gym%20class&position=1&from_view=keyword&track=ais&uuid=e5ce70fc-3fbe-4e89-b074-15b2120e87d7#position=1&query=gym%20class">Image by master1305</a> on Freepik
