@@ -20,6 +20,9 @@ The purpose of this project is to provide information to people who are thinking
 * __Footer__
     * This will include a link to the contact form, and also links to all of The Function Gyms social media.  
 
+* __About__
+    * This page will have information about the gym and what it does, types of training and also it will show a schedule for class times. 
+
 * __Memberships__
     * This feature will include all of the different membership types available for new customers. It will offer detail about memberships and the different prices of each one.
 
