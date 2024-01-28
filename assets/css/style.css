@@ -430,7 +430,15 @@ textarea {
         float: none;
         margin-bottom: 5px;
     }
+    #reviews {
+        height: 660px;
+        display: flex;
+        flex-direction: column;
+    }
 
+    #reviews div {
+        width: 80%; 
+    }
 
     #about {
         height: 87vh;

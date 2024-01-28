@@ -18,7 +18,7 @@ The purpose of this project is to provide information to people who are thinking
     * The testimonial section is for current customer reviews explaining why they enjoy The Function Gym. To show the success and enjoyment current members have. 
 
 * __Footer__
-    * This will include a link to the contact form, and also links to all of The Function Gyms social media.  
+    * This will include links to all of The Function Gyms social media.  
 
 * __About__
     * This page will have information about the gym and what it does, types of training and also it will show a schedule for class times. 
