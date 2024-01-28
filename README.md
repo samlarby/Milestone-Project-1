@@ -58,7 +58,7 @@ The purpose of this project is to provide information to people who are thinking
 
 * <https://jigsaw.w3.org/css-validator/validator> used to check CSS, tests returned no errors.
 * <https://validator.w3.org/nu/> used to check HTML on each webpage 
-    * index.html returned a warning suggesting to include a header in the reviews section
+    * index.html returned no warnings
     * about.html returned no errors
     * memberships.html returned no errors
     * gallery.html warned that the section lacked a header
