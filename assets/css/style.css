@@ -8,7 +8,7 @@ body {
     min-height: 100%;
 }
 
-/* ------------------------ header */
+/* ---------------------------------- header */
 
 header {
     margin: 5px 5px 5px 5px;
@@ -103,7 +103,7 @@ header a {
     background-color: rgb(13, 13, 13);
 }
 
-/* -------------------- hero-image */
+/* ------------------------------ hero-image */
 
 #hero-image-container {
     height: 700px;
@@ -145,7 +145,7 @@ header a {
 }
 
 
-/* ------------------------ reviews */
+/* ---------------------------------- reviews */
 
 
 #reviews-title {
@@ -182,7 +182,7 @@ header a {
     letter-spacing: 2px;
 }
 
-/* ------------------------ footer */
+/* ---------------------------------- footer */
 
 #footer-container {
     display: flex;
@@ -199,7 +199,7 @@ header a {
     font-size: large;
 }
 
-/* ------------------------ memberships */
+/* ---------------------------------- memberships */
 
 #membership {
     height: 82vh;
@@ -245,7 +245,7 @@ header a {
     font-weight: 300;
 }
 
-/* ------------------------ gallery */
+/* ---------------------------------- gallery */
 
 #gallery {
     clear: both;
@@ -262,7 +262,7 @@ header a {
 }
 
 
-/* ------------------------ contact */
+/* ---------------------------------- contact */
 
 .contact-form-container {
     height: 100vh;
@@ -335,7 +335,7 @@ textarea {
     height: 160px;
 }
 
-/* ------------------------ about */
+/* -------------------------------------------- about */
 
 #about {
     height: 87vh;
@@ -408,7 +408,7 @@ textarea {
 }
 
 
-
+/* Media queries for screen sizes with the max width of 1200px*/
 
 @media screen and (max-width: 1200px) {
 
@@ -450,17 +450,14 @@ textarea {
 
     #about {
         width: 80%;
-        min-height: 89vh;
         padding-left: 10%;
         padding-right: 10%;
-        font-size: larger;
-        height: 100vh; 
+        font-size: large;
+        height: 100%; 
     }
 
     #about-us {
         height: 30%;
-        font-size: x-large;
-
     }
 
     #schedule {
@@ -487,13 +484,14 @@ textarea {
 
 
     #membership {
-        height: 100vh; 
+        height: 100%; 
     }
 
     .membership-container {
-        height: 100vh;
+        height: 100%;
         align-items: center;
         flex-direction: column;
+        flex-wrap: nowrap;
     }
 
     .membership-item {
@@ -514,6 +512,8 @@ textarea {
         font-size: large;
     }
 }
+
+/* Media queries for screen sizes with the max width of 992px*/
 
 @media screen and (max-width: 992px) {
 
@@ -557,12 +557,7 @@ textarea {
 
     
 
-    #membership {
-        height: 100vh;
-    }
-
     .membership-container {
-        height: 100vh;
         flex-direction: column;
         align-items: center;
     }
@@ -577,7 +572,7 @@ textarea {
     
 }
 
-
+/* Media queries for screen sizes with the max width of 768px*/
 
 @media screen and (max-width: 768px) {
     .navbar {
@@ -630,7 +625,7 @@ textarea {
 
 
     #reviews {
-        height: 660px;
+        height: 30%;
         display: flex;
         flex-direction: column;
         margin-bottom: 20px;
@@ -640,9 +635,7 @@ textarea {
     }
 
     #reviews div {
-
-        height: 200px;
-        width: 100%;
+        height: 33%;
         display: flex;
         flex-direction: column;
         margin-bottom: 20px;
@@ -692,13 +685,11 @@ textarea {
     }
 
     #membership {
-        height: 1280px;
         margin-top: 45px;
     }
 
     .membership-container {
         width: 100%;
-        height: 1300px;
         display: flex;
         flex-direction: column;
         justify-content: center;
