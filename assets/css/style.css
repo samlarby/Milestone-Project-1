@@ -441,14 +441,61 @@ textarea {
         width: 80%; 
     }
 
-    #about {
-        height: 87vh;
+        #about {
+            width: 80%;
+            min-height: 89vh;
+            padding-left: 10%;
+            padding-right: 10%;
+        }
+    
+        #about-us {
+            height: 30%;
+    
+        }
+    
+        #schedule {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+            text-align: center;
+            height: 100%;
+            flex-wrap: wrap;
+        }
+    
+        .schedule-item {
+            font-family: 'Montserrat', sans-serif;
+            padding-left: 10px;
+            text-align: center;
+            width: 200px;
+        }
+    
+        .schedule-item ul {
+            list-style-position: inside;
+            text-align: center;
+            padding: inherit;
+        }
+   
+
+    #membership {
+        height: 90vh; 
     }
 
+    .membership-container {
+        height: 45vh;
+        align-items: center;
+        flex-direction: column;
+    }
 
+    .membership-item {
+        width: 70%;
+    }
+
+    #gallery {
+        column-count: 2;
+    }
 
     .contact-form-container {
-        height: 84vh;
+        height: 90vh;
     }
 
 }
@@ -493,39 +540,7 @@ textarea {
         margin-bottom: 50px; 
     }
 
-    #about {
-        width: 80%;
-        min-height: 87vh;
-        padding-left: 10%;
-        padding-right: 10%;
-    }
-
-    #about-us {
-        height: 30%;
-
-    }
-
-    #schedule {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-evenly;
-        text-align: center;
-        height: 100%;
-        flex-wrap: wrap;
-    }
-
-    .schedule-item {
-        font-family: 'Montserrat', sans-serif;
-        padding-left: 10px;
-        text-align: center;
-        width: 200px;
-    }
-
-    .schedule-item ul {
-        list-style-position: inside;
-        text-align: center;
-        padding: inherit;
-    }
+    
 
     #membership {
         height: 100vh;
@@ -543,13 +558,7 @@ textarea {
         margin-bottom: 20px;
     }
 
-    #gallery {
-        column-count: 2;
-    }
-
-    .contact-form-container {
-        height: 85vh;
-    }
+    
 }
 
 
