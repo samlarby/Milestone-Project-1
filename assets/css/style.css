@@ -588,7 +588,6 @@ textarea {
     .nav-toggle-label {
         color: black;
         position: absolute;
-        top: 105px;
     }
 
     header {
@@ -637,6 +636,7 @@ textarea {
         margin-bottom: 20px;
         margin-left: 8px;
         overflow: hidden;
+        font-size: medium; 
     }
 
     #reviews p {

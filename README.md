@@ -7,7 +7,7 @@ The purpose of this project is to provide information to people who are thinking
 ## Features
 
   * __Navigation Bar__
-    * The navigation bar includes the company title which will link to the home page if clicked on. It will also include a home link, memberships link, gallery link, and a contact link.
+    * The navigation bar includes the company title which will link to the home page if clicked on. It will also include a home link, about link, memberships link, gallery link, and a contact link.
     * The navigation bar will be present at the top of the page on all 4 different pages. 
 
 * __Hero Image__
@@ -46,7 +46,7 @@ The purpose of this project is to provide information to people who are thinking
 
 ### Design Choices
 * Colour scheme
-    * The main two colours used are black and antiquewhite
+    * The main two colours used are antiquewhite and black. 
 * Typography
     * The font-family used for this website is Montserrat and sans-serif was set as the fall back font. Montserrat was used as it has a clean and stylish look.
 * Imagery
@@ -56,6 +56,11 @@ The purpose of this project is to provide information to people who are thinking
 * All wireframes were created using Balsamiq wireframes, all designs for desktop, tablet and mobile are linked here
 
 ## Testing
+* Navbar
+    * Clicking on each navbar link takes the user to a different webpage. All nav links are working from each different webpage. The main logo works a link to the homepage on each page as well. 
+
+* Hero image
+    * Hero image is visible on all different website sizes, the one link in the hero image takes the user to the gallery.
 
 ### Validator Testing
 
