@@ -606,6 +606,10 @@ textarea {
         justify-content: center;
     }
 
+    #hero-image {
+        margin-top: 45px; 
+    }
+
     #hero-image-container {
         padding-top: 0;
         margin-top: 0; 
