@@ -92,6 +92,10 @@ The purpose of this project is to provide information to people who are thinking
     * gallery.html returned no errors
     * contact.html returned no errors.
 
+* Lighthouse testing 
+    * After testing the index.html all scores were at the passable level.
+    * 
+
 ### Unfixed bugs
 
 ## Deployment 

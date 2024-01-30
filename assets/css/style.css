@@ -213,10 +213,10 @@ header a {
     margin: 10px;
     padding: 6px;
     width: 20%;
-    background-color: #ea6c36b3;
+    background-color: #C25123;
     color: white;
     border-radius: 10px;
-    box-shadow: 3px 4px 3px #ea6c367a;
+    box-shadow: 3px 4px 3px #c2512394;
 }
 
 .schedule-item h3 {
@@ -328,6 +328,10 @@ header a {
     font-weight: 300;
 }
 
+#membership-item-3-bg {
+    background-color: #d5815ef7;
+    box-shadow: 4px 4px 3px 0px #d58462a3;
+}
 /* ---------------------------------- gallery */
 
 #gallery {
@@ -506,6 +510,17 @@ textarea {
         font-size: larger;
         padding: 10px; 
     }
+
+    #membership-item-3-bg {
+        background-color: #4484a3f2;
+        box-shadow: 4px 4px 3px 0px #4d89a78a;
+    }
+
+    #membership-item-4-bg {
+        background-color: #d5815ef7;
+        box-shadow: 4px 4px 3px 0px #d58462a3;
+    }
+    
 
     #gallery {
         column-count: 2;
