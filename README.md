@@ -93,8 +93,8 @@ The purpose of this project is to provide information to people who are thinking
     * contact.html returned no errors.
 
 * Lighthouse testing 
-    * After testing the index.html all scores were at the passable level for desktop size.
-    * Memberships.html scores were all at the passable level for desktop size.
+    * After testing the index.html all scores were at the passable level.
+    * Memberships.html scores were all at the passable level.
     * Gallery.html 
 
 ### Unfixed bugs
@@ -108,6 +108,9 @@ The purpose of this project is to provide information to people who are thinking
     * Then use the branch dropdown menu to select main instead of none.
     * Then select root in the dropdown tab next to main.
     * Once completed press save. 
+  * The github pages link is here <https://samlarby.github.io/Milestone-Project-1/>
+
+  
 ## Credits
 
 /*<a href="https://www.freepik.com/free-photo/group-young-people-training-gym-indoors-maintaining-sportive-lifestyle_26207714.htm#query=gym%20class&position=1&from_view=keyword&track=ais&uuid=e5ce70fc-3fbe-4e89-b074-15b2120e87d7#position=1&query=gym%20class">Image by master1305</a> on Freepik

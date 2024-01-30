@@ -183,7 +183,7 @@ header a {
 }
 
 #about-us p {
-    padding: 20px;
+    padding: 25px;
 }
 
 #schedule-container {
@@ -213,7 +213,7 @@ header a {
     margin: 10px;
     padding: 6px;
     width: 20%;
-    background-color: #C25123;
+    background-color: #c25123de;
     color: white;
     border-radius: 10px;
     box-shadow: 3px 4px 3px #c2512394;
@@ -251,7 +251,7 @@ header a {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    padding: 16px; 
+    padding: 25px; 
 }
 
 
