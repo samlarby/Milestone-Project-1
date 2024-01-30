@@ -14,7 +14,7 @@ The purpose of The Function Gym website is to provide information to people who 
 
 * __Hero Image__
     * The hero image will be visible on the home page, it is there to make the page visibly appealing and inticing.
-    * Over the hero image will be the gyms moto and also a sign up link which will take customers to the membership page. 
+    * Over the hero image will be the gyms moto and also a link which will take customers to the gallery page. 
 
 ![Hero image](documentation/hero-image-mock-up.jpg)
 
@@ -34,7 +34,7 @@ The purpose of The Function Gym website is to provide information to people who 
 ![footer](documentation/footer.jpg)
 
 * __Memberships__
-    * This feature will include all of the different membership types available for new customers. It will offer detail about memberships and the different prices of each one.
+    * This feature will include all of the different membership types available for new customers. It will offer details about memberships and the different prices of each one.
   
 ![memberships](documentation/memberships.jpg)
 
