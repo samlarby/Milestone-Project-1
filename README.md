@@ -1,6 +1,6 @@
 # The Function Gym
 
-The purpose of The Function Gym website is to provide information to people who are thinking of joining The Function Gym. This site is aimed at people who want to join a gym which has focus on fun and community but also working hard as well. It will provide information on different membership types and prices. The website also provides a form if visiters decide they have any further questions. 
+The purpose of The Function Gym website is to provide information to people who are thinking of joining a fun and exciting gym. This site is aimed at people who want to join a gym which has focus on fun and community but also working hard as well. It will provide information on different membership types and prices. The website also provides a form if visitors decide they have any further questions. 
 
 ![Mock up image](documentation/Website-mockup.jpg)
 
