@@ -164,7 +164,6 @@ header a {
     font-weight: bold;
     color: white;
     background-color: #5f90a8;
-    box-shadow: 0 0 9px 1px #033750;
     margin: 0px;  
     padding: 10px;   
 }
@@ -230,7 +229,6 @@ header a {
     font-family: 'Montserrat', sans-serif;
     padding: 10px;
     background-color: #5f90a8;
-    box-shadow: 0 0 9px 1px #033750;
     color: white;
 }
 
