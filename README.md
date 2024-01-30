@@ -21,7 +21,7 @@ The purpose of this project is to provide information to people who are thinking
     * This will include links to all of The Function Gyms social media.  
 
 * __About__
-    * This page will have information about the gym and what it does, types of training and also it will show a schedule for class times. 
+    * This section will have information about the gym and what it does, types of training and also it will show a schedule for class times. 
 
 * __Memberships__
     * This feature will include all of the different membership types available for new customers. It will offer detail about memberships and the different prices of each one.
@@ -57,10 +57,19 @@ The purpose of this project is to provide information to people who are thinking
 
 ## Testing
 * Navbar
-    * Clicking on each navbar link takes the user to a different webpage. All nav links are working from each different webpage. The main logo works a link to the homepage on each page as well. 
+    * Clicking on each navbar link takes the user to a different webpage. All nav links are working from each different webpage. The main logo works a link to the homepage on each page as well. No errors found.
 
 * Hero image
-    * Hero image is visible on all different website sizes, the one link in the hero image takes the user to the gallery.
+    * Hero image is visible on all different website sizes, the one link in the hero image takes the user to the gallery. The hero text moves to the centre on smaller screen sizes and is still fully visible. 
+
+* About section
+    * This section is fully visible on all screen sizes and is readable. The paragraph changes to the screen size and the schedule items move down to a different row if theynot fit the screen. On small screens the schedule items are all stacked on top of eachother. This makes it easier to read.
+
+* Reviews 
+    * On large screens the review items display alongside eachother, but any screen under 1200px will mean the items will stack on top of eachother for easier visibility.
+
+* Footer 
+    * The footer displays logos to four different social media sights, facebook, instagram, twitter and threads, 
 
 ### Validator Testing
 
@@ -69,7 +78,7 @@ The purpose of this project is to provide information to people who are thinking
     * index.html returned no warnings
     * about.html returned no errors
     * memberships.html returned no errors
-    * gallery.html warned that the section lacked a header
+    * gallery.html returned no errors
     * contact.html returned no errors.
 
 ### Unfixed bugs
