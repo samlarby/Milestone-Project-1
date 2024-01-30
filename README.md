@@ -46,7 +46,7 @@ The purpose of this project is to provide information to people who are thinking
 
 ### Design Choices
 * Colour scheme
-    * The main two colours used are antiquewhite and black. 
+    * The main two colours being used are orange and blue, with an off white background. 
 * Typography
     * The font-family used for this website is Montserrat and sans-serif was set as the fall back font. Montserrat was used as it has a clean and stylish look.
 * Imagery
