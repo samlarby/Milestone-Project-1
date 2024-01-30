@@ -93,8 +93,9 @@ The purpose of this project is to provide information to people who are thinking
     * contact.html returned no errors.
 
 * Lighthouse testing 
-    * After testing the index.html all scores were at the passable level.
-    * 
+    * After testing the index.html all scores were at the passable level for desktop size.
+    * Memberships.html scores were all at the passable level for desktop size.
+    * Gallery.html 
 
 ### Unfixed bugs
 
