@@ -1,6 +1,8 @@
 # The Function Gym
 
-The purpose of this project is to provide information to people who are thinking of joining The Function Gym. This site is aimed at people who want to join a gym which has focus on fun and community but also working hard as well. It will provide information on different membership types and prices. 
+The purpose of this project is to provide information to people who are thinking of joining The Function Gym. This site is aimed at people who want to join a gym which has focus on fun and community but also working hard as well. It will provide information on different membership types and prices. There will also be a section for customers to submit questions if they need more information. 
+
+
 
 ![Mock up image](documentation/Website-mockup.jpg)
 
@@ -49,16 +51,25 @@ The purpose of this project is to provide information to people who are thinking
 ![contact](documentation/contact.jpg)
 
 
-## User Experience (UX) 
+## User Experience UX 
+
+## Site Goals
+
+* __User Goals__
+  * As a customer the goals for this website are to draw them into to joining the function gym.
+  * The site should come across as vibrant and fun a representation of what the gym is.
+  * There should be opportunity for the customer to read about what the gym does and its type of training.
+  * Also plenty of information for the user to find out about the different membership types.
+
 ### First time visitors
-* The aim for a first time visitor is to find information about the gym.
-* Also to find reviews of the organisation.
-* Finally to find pictures of people in the gym, to see if they are enjoying the experience
+* On the first visit they can find information about what the gym does, and also a schedule of typical class times througout the week. 
+* They will also find reviews of the organisation.
+* Finally they can find images of what the the people and gym looks like.
 
 ### Returning visitors
-* A returning customer will find more information on schedules and also membership options
-* Be able to find ways of contacting the company for any questions I may have, and contact about joining
-* Also find links to social media
+* A returning customer will be able to find out more information about the gym membership options.
+* They will also be able to find a way of contacting the organisation through the contact form. 
+* Also they will find links to social media at the bottom of each page.
 
 ### Design Choices
 * Colour scheme
@@ -70,7 +81,7 @@ The purpose of this project is to provide information to people who are thinking
 
 ### Wireframes
 
-* All wireframes were created using Balsamiq wireframes, all designs for desktop, tablet and mobile are linked [here](documentation/wireframes/wireframes.pdf)
+* All wireframes were created using Balsamiq wireframes, all designs for desktop, tablet and mobile are linked [here](documentation/wireframes/wireframes.pdf).
 
 ## Testing
 * Navbar
@@ -109,16 +120,16 @@ The purpose of this project is to provide information to people who are thinking
 ### Validator Testing
 
 * <https://jigsaw.w3.org/css-validator/validator> used to check CSS, tests returned no errors.
-* <https://validator.w3.org/nu/> used to check HTML on each webpage 
+* <https://validator.w3.org/nu/> used to check HTML on each webpage.
     * index.html returned no warnings
     * about.html returned no errors
     * memberships.html returned no errors
     * gallery.html returned no errors
     * contact.html returned no errors.
 
-### Unfixed bugs
+###  Bugs found
 
-* No bugs found 
+* One bug found along the way was that the hero-image was not loading into the github pages but was laading into the codeanywhere preview. This was because a relative path was used and not the correct path type, so assets/images/hero-image.jpg was changed to ../images/hero-image.jpg.
   
 ## Deployment 
 * This site was deployed to github pages here are the steps:
@@ -134,22 +145,14 @@ The purpose of this project is to provide information to people who are thinking
   
 ## Credits
 
-
-
 ## Picture credits
 ### Pictures from the gallery page and hero image are from these opensource websites
 
 * <https://www.freepik.com/>, attributes include photomaster1305 and rawpixel.com
-* <https://www.vecteezy.com/free-photos>
-* <https://unsplash.com/>
-* <https://www.pexels.com/>
-* 
-
-### Content
-
-
-
-### Media
+* <https://www.vecteezy.com/>, attributes include Yulia Gapeenko
+* <https://unsplash.com/>, attributes include Danielle Cerullo, Victor Freitas, Hayley Kim Studio, Logan Weaver and Samuel Girven.
+* <https://www.pexels.com/>, attributes include Victor Freitas
+  
 
 
 
