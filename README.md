@@ -7,7 +7,7 @@ The purpose of The Function Gym website is to provide information to people who 
 ## Features
 
   * __Navigation Bar__
-    * The navigation bar includes the company title which will link to the home page if clicked on. It will also include a home link, about link, memberships link, gallery link, and a contact link.
+    * The navigation bar includes the company title which will link to the home page if clicked on. It will also include a home link, memberships link, gallery link, and a contact link.
     * The navigation bar will be present at the top of the page on all 4 different pages. 
 
 ![Header](documentation/Header.jpg)
