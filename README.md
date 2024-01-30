@@ -2,8 +2,6 @@
 
 The purpose of this project is to provide information to people who are thinking of joining The Function Gym. This site is aimed at people who want to join a gym which has focus on fun and community but also working hard as well. It will provide information on different membership types and prices. There will also be a section for customers to submit questions if they need more information. 
 
-
-
 ![Mock up image](documentation/Website-mockup.jpg)
 
 ## Features
@@ -41,7 +39,7 @@ The purpose of this project is to provide information to people who are thinking
 ![memberships](documentation/memberships.jpg)
 
 * __Gallery__
-   * The gallery wull display different photos of the gym and also the exsisting members. With the purpose of showing the community and the enjoyment people have attending The Function Gym. 
+   * The gallery will display different photos of the gym and also the exsisting members. With the purpose of showing the community and the enjoyment people have attending The Function Gym. 
   
 ![gallery](documentation/gallery.jpg)
   
