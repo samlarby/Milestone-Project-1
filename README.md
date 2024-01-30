@@ -69,7 +69,18 @@ The purpose of this project is to provide information to people who are thinking
     * On large screens the review items display alongside eachother, but any screen under 1200px will mean the items will stack on top of eachother for easier visibility.
 
 * Footer 
-    * The footer displays logos to four different social media sights, facebook, instagram, twitter and threads, 
+    * The footer displays logos to four different social media sights, facebook, instagram, twitter and threads, when clicking on a logo the user is linked to the corrosponding webpage in a new tab. All links were tested in each webpage.
+
+* Memberships 
+    * There are four different memberships shown on the screen. All visible and readable at different screen sizes. On small screens the memberships stack on top of eachother fitting the screen.
+  
+* Gallery 
+    * The gallery page shows different images all at the same size. On a large screen the images spread across four columns. But any screen under 1200px then the images span over two columns.
+
+* Contact page 
+    * The contact page contains a form, which requires a first name, last name and an email, the form can not be submitted unless these are inputed into the text input areas. There is also a text area for any quiestios the user may want to ask. The form changes size with the screen size and is fully visible in smaller screen sizes.
+
+
 
 ### Validator Testing
 
