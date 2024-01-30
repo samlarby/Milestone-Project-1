@@ -1,6 +1,6 @@
 # The Function Gym
 
-The purpose of this project is to provide information to people who are thinking of joining The Function Gym. This site is aimed at people who want to join a gym which has focus on fun and community but also working hard as well. It will provide information on different membership types and prices. There will also be a section for customers to submit questions if they need more information. 
+The purpose of The Function Gym website is to provide information to people who are thinking of joining The Function Gym. This site is aimed at people who want to join a gym which has focus on fun and community but also working hard as well. It will provide information on different membership types and prices. The website also provides a form if visiters decide they have any further questions. 
 
 ![Mock up image](documentation/Website-mockup.jpg)
 
@@ -105,8 +105,6 @@ The purpose of this project is to provide information to people who are thinking
 * Contact page 
     * The contact page contains a form, which requires a first name, last name and an email, the form can not be submitted unless these are inputed into the text input areas. There is also a text area for any quiestios the user may want to ask. The form changes size with the screen size and is fully visible in smaller screen sizes.
 
-
-
 ### Validator Testing
 
 * <https://jigsaw.w3.org/css-validator/validator> used to check CSS, tests returned no errors.
@@ -130,10 +128,12 @@ The purpose of this project is to provide information to people who are thinking
     * Then use the branch dropdown menu to select main instead of none.
     * Then select root in the dropdown tab next to main.
     * Once completed press save. 
-    * The github pages link is here <https://samlarby.github.io/Milestone-Project-1/>
+  * The github pages link is here <https://samlarby.github.io/The-Function-Gym/>
 
   
 ## Credits
+
+* I would like to thank my mentor Okwudiri Okoro for his help.
 
 ## Picture credits
 ### Pictures from the gallery page and hero image are from these opensource websites
