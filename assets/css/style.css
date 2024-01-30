@@ -58,6 +58,8 @@ header a {
     letter-spacing: 3px;
 }
 
+/*dropdown navbar for smallscreens*/
+
 .dropdown {
     display: none;
 }
@@ -149,10 +151,6 @@ header a {
     }
 
 
-
-
-
-
 /* -------------------------------------------- about */
 
 #about {
@@ -200,12 +198,9 @@ header a {
 #schedule {
     display: flex;
     flex-direction: row;
-
     justify-content: space-around;
     text-align: center;
-
     padding: 25px;
-
 }
 
 .schedule-item {
@@ -231,8 +226,6 @@ header a {
     list-style-type: circle;
     font-weight: 300; 
 }
-
-
 
 /* ---------------------------------- reviews */
 
@@ -447,7 +440,6 @@ textarea {
         right: 25%;
     }
 
-
     #reviews {
         display: flex;
         flex-direction: column;
@@ -461,10 +453,6 @@ textarea {
 
     #about {
         font-size: larger;
-    }
-
-    #about-us {
-        height: 30%;
     }
 
     #about-us p {
@@ -520,7 +508,6 @@ textarea {
         background-color: #d5815ef7;
         box-shadow: 4px 4px 3px 0px #d58462a3;
     }
-    
 
     #gallery {
         column-count: 2;
@@ -534,13 +521,6 @@ textarea {
 /* Media queries for screen sizes with the max width of 992px*/
 
 @media screen and (max-width: 992px) {
-
-
-    #hero-text {
-        left: 25%;
-        right: 25%;
-    }
-
 
     #reviews {
         display: flex;
@@ -621,12 +601,6 @@ textarea {
         padding-top: 0;
         margin-top: 0; 
     }
-
-    #hero-text {
-        left: 25%;
-        right: 25%;
-    }
-
 
     #reviews {
         height: 30%;

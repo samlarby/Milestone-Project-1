@@ -49,19 +49,11 @@ The purpose of this project is to provide information to people who are thinking
 ![contact](documentation/contact.jpg)
 
 
-## User Experience UX 
-
-## Site Goals
-
-* __User Goals__
-  * As a customer the goals for this website are to draw them into to joining the function gym.
-  * The site should come across as vibrant and fun a representation of what the gym is.
-  * There should be opportunity for the customer to read about what the gym does and its type of training.
-  * Also plenty of information for the user to find out about the different membership types.
+## User Experience 
 
 ### First time visitors
 * On the first visit they can find information about what the gym does, and also a schedule of typical class times througout the week. 
-* They will also find reviews of the organisation.
+* They will also find reviews of the organisation, to give them an idea of what the gym is like. 
 * Finally they can find images of what the the people and gym looks like.
 
 ### Returning visitors
