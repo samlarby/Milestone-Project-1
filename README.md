@@ -134,6 +134,9 @@ The purpose of The Function Gym website is to provide information to people who 
 ## Credits
 
 * I would like to thank my mentor Okwudiri Okoro for his help.
+* My nav toggle navbar was copied from this repository <https://github.com/CraigS119/Craigs-Plants-P1/blob/main/index.html>
+* Icons were taken from <https://fontawesome.com/>
+* Font was from <https://fonts.google.com/>
 
 ## Picture credits
 ### Pictures from the gallery page and hero image are from these opensource websites
